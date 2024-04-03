@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import DrugSearch from './components/DrugSearch';
 import DrugList from './components/DrugList';
-import Table from '@/components/Table';
+// import Table from '@/components/Table';
 import { TableDemo } from '@/components/TablesDemo';
 
 function App(): JSX.Element {
