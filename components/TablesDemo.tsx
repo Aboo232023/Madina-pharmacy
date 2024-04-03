@@ -320,7 +320,7 @@ export function TableDemo() {
           <TableRow>
             <TableCell colSpan={3}>Total</TableCell>
             <TableCell className="text-right">
-              ${filteredInvoices.reduce((acc, curr) => acc + parseFloat(curr.totalAmount.replace('KES ', '')), 0).toFixed(2)}
+              KES {filteredInvoices.reduce((acc, curr) => acc + parseFloat(curr.totalAmount.replace('KES ', '')), 0).toFixed(2)}
             </TableCell>
           </TableRow>
         </TableFooter>
