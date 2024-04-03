@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# UMMA UNIVERSITY
 
-## Getting Started
+## PROJECT TITLE: PHARMTECH
 
-First, run the development server:
+**COURSE:** DIPLOMA IN INFORMATION TECHNOLOGY
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**NAME:** ABUBAKAR MOHAMED OMAR  
+**ADM NO.:** DICT/2023/50657
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## DECLARATION
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+I hereby declare that this is my own original work, except for citations that are duly acknowledged, and that this project has never been presented for marking at UMMA University. I accept full responsibility for the security of any borrowed equipment and agree to pay any contribution to its repair or replacement cost at published current cost.
 
-## Learn More
+## DEDICATION
 
-To learn more about Next.js, take a look at the following resources:
+This project proposal is dedicated with profound admiration and appreciation to ALMIGHTY ALLAH S.W.T for giving me the strength and ability I need throughout. Great appreciation to all my parents, lecturers, friends, and classmates for their constant supervision, encouragement, and moral support.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Table of Contents
 
-## Deploy on Vercel
+1. [CHAPTER ONE](#chapter-one)
+    - [Background](#background)
+    - [Problem Statement](#problem-statement)
+    - [Objectives](#objectives)
+    - [Justification](#justification)
+    - [Mitigation](#mitigation)
+    - [Scope of the Project](#scope-of-the-project)
+2. [CHAPTER TWO](#chapter-two)
+    - [Literature Review](#literature-review)
+        - [Importance of Inventory System on Pharmacies](#importance-of-inventory-system-on-pharmacies)
+        - [Case Study](#case-study)
+        - [Conclusion](#conclusion)
+3. [CHAPTER THREE](#chapter-three)
+    - [Methodology](#methodology)
+        - [Introduction](#introduction)
+        - [System Methodology](#system-methodology)
+            - [The Waterfall Model](#the-waterfall-model)
+4. [CHAPTER FOUR](#chapter-four)
+    - [System Analysis](#system-analysis)
+5. [CHAPTER FIVE](#chapter-five)
+    - [System Implementation](#system-implementation)
+6. [CHAPTER SIX](#chapter-six)
+    - [Conclusion](#conclusion-1)
+    - [Project Schedule](#project-schedule)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## CHAPTER ONE
+
+### Background
+
+The ever-changing technology trend in technology has brought the necessity for the automation of everything from paper-and-pen based to absolute computer domination. This emergence of computers has paved way to easier access of information that leads to increased production, efficiency, and reliability. Pharmacies are one of the leading users of computer applications in order to manage patient records and doses.
+
+...
+
